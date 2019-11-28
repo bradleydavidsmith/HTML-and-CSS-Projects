@@ -1,0 +1,14 @@
+html {
+    font-size: 100%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+form input[type="text"] {
+    width: 80%;
+    margin: 10px 1em;
+    border-top: 1px solid #090B0D;
+    border-right: 2px solid #424549;
+    border-bottom: 2px solid #424549;
+    border-left: 1px solid #090B0D;
+    border-radius: 7px;
+}
